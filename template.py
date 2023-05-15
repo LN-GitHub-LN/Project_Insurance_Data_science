@@ -27,7 +27,7 @@ list_of_files = [
     f"{project_name}/exception.py",
     f"{project_name}/predictor.py",
     f"{project_name}/utils.py",
-    f"configs/config.yaml",
+    f"configs/config.yaml", 
     "requirements.txt",
     "setup.py",
     "main.py"
